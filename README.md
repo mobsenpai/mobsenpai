@@ -31,7 +31,7 @@
 <p align="center">
   <samp>
     [<a href="https://pinterest.com/mobkunx">pinterest</a>]
-    [<a href="https://reddit.com/mobkunx">reddit</a>]
+    [<a href="https://www.reddit.com/user/mobkunx">reddit</a>]
     [<a href="mailto:itsmeyashraj@proton.me">e-mail</a>]
   </samp>
 </p>
