@@ -1,4 +1,4 @@
-<!-- itsmeyashraj's Aesthetic GitHub Profile -->
+<!-- MobSenpai's Aesthetic GitHub Profile -->
 <div align="justify">
 
 <!-- Profile -->
@@ -32,7 +32,7 @@
   <samp>
     [<a href="https://pinterest.com/mobkunx">pinterest</a>]
     [<a href="https://www.reddit.com/user/mobkunx">reddit</a>]
-    [<a href="mailto:itsmeyashraj@proton.me">e-mail</a>]
+    [<a href="mailto:MobSenpai@proton.me">e-mail</a>]
   </samp>
 </p>
 
@@ -42,7 +42,7 @@
 <p align="center">
   <samp>
   <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=itsmeyashraj&label=Profile+Views&color=grey" alt="profile views" /> 
+    <img src="https://komarev.com/ghpvc/?username=MobSenpai&label=Profile+Views&color=grey" alt="profile views" /> 
   </a>
   </samp>
 </p>
@@ -51,7 +51,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=itsmeyashraj&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=MobSenpai&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
     </tr>
   </table>
 </div>
@@ -60,8 +60,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsmeyashraj&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeyashraj&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MobSenpai&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobSenpai&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
     </tr>
   </table>
 </div>
