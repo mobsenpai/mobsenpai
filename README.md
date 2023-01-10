@@ -8,10 +8,10 @@
       <b>
         Hello There
       <br>
-        I'm Yash Raj, a Student, I like Penguins and Apples, but I don't like Windows. Self taught coder.
+        I'm Yash Raj, a Student, I like Penguins and Apples, but I don't like Windows. I code keeping everything Aesthetic and Clean.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=I+code+beautiful+and+aesthetic+programs.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Anime+Code+Read is all I can do.">
       <br>
       <b>
         ~ Yash Raj ~
