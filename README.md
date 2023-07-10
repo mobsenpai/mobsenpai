@@ -32,7 +32,7 @@
   <samp>
     [<a href="https://pinterest.com/mobkunx">pinterest</a>]
     [<a href="https://www.reddit.com/user/mobkunx">reddit</a>]
-    [<a href="mailto:MobSenpai@proton.me">e-mail</a>]
+    [<a href="mailto:iamyashraj@proton.me">e-mail</a>]
   </samp>
 </p>
 
