@@ -1,70 +1,43 @@
-<!-- MobSenpai's Aesthetic GitHub Profile -->
-<div align="justify">
+<!-- Irasshaimase -->
 
-<!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        Hello There
-      <br>
-        I'm Yash Raj, a Student, I like Penguins and Apples, but I don't like Windows. I code keeping everything Aesthetic and Clean.
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Anime+Code+Read+is+all+I+can+do.">
-      <br>
-      <b>
-        ~ Yash Raj ~
-      </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+<div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&weight=600&size=27&pause=1000&color=B8BB26&random=false&width=435&lines=Irasshaimase;%E3%81%84%E3%82%89%E3%81%A3%E3%81%97%E3%82%83%E3%81%84%E3%81%BE%E3%81%9B;Hello+there!)](https://git.io/typing-svg)
+
+---
+
+<image width="300px" align="left" src="https://github.com/MobSenpai/MobSenpai/assets/92603465/0eed07a9-8b7a-4acd-812e-64e5d7c91d00">
+
+#### 🇼​​​​​🇪​​​​​🇱​​​​​🇨​​​​​🇴​​​​​🇲​​​​​🇪​​​​​ 🇹​​​​​🇴​​​​​ 🇲​​​​​🇴​​​​​🇧​​​​​'🇸​​​​​ 🇭​​​​​🇺​​​​​🇧​​​​​
+
+---
+
+_I am MobSenpai, a student. I code keeping everything aesthetic and clean._
+
+</div>
 
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<details>
-<summary><samp><b>More Info</b></samp></summary>
+---
 
-<h2></h2><br>
+<details> <summary> More info </summary>
 
-<!-- Contact Me -->
-<p align="center">
-  <samp>
-    [<a href="https://pinterest.com/mobkunx">pinterest</a>]
-    [<a href="https://www.reddit.com/user/mobkunx">reddit</a>]
-    [<a href="mailto:iamyashraj@proton.me">e-mail</a>]
-  </samp>
-</p>
-
-<h2></h2><br>
-
-<!-- Profile Views Badge -->
-<p align="center">
-  <samp>
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=MobSenpai&label=Profile+Views&color=grey" alt="profile views" /> 
-  </a>
-  </samp>
-</p>
-
-<!-- Github Trophy -->
 <div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=MobSenpai&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=nord"></a></td>
-    </tr>
-  </table>
-</div>
 
-<!-- Github Stats -->
-<div align="center">
-  <table>
-    <tr>
-      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MobSenpai&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=nord"/></a></td>
-      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobSenpai&layout=compact&line_height=21&hide_border=true&theme=nord"/></a></td>
-    </tr>
-  </table>
-</div>
+| Trophy                                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| <img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=MobSenpai&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=gruvbox"> |
+
+| Stats                                                                                                                                                                                                                                 | Languages                                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img height="137vh" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MobSenpai&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=gruvbox"/> | <img height="137vh" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobSenpai&layout=compact&line_height=21&hide_border=true&theme=gruvbox"/> |
 
 </details>
+
 </div>
