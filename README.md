@@ -12,7 +12,7 @@
 
 ---
 
-_I am MobSenpai, a student. I code keeping everything aesthetic and clean._
+_I am mobsenpai, a student. I code keeping everything aesthetic and clean._
 
 </div>
 
