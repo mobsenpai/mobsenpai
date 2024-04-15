@@ -6,7 +6,7 @@
 
 ---
 
-<image width="300px" align="left" src="https://github.com/MobSenpai/MobSenpai/assets/92603465/0eed07a9-8b7a-4acd-812e-64e5d7c91d00">
+<image width="300px" align="left" src="https://github.com/mobsenpai/mobsenpai/assets/92603465/0eed07a9-8b7a-4acd-812e-64e5d7c91d00">
 
 #### 🇼​​​​​🇪​​​​​🇱​​​​​🇨​​​​​🇴​​​​​🇲​​​​​🇪​​​​​ 🇹​​​​​🇴​​​​​ 🇲​​​​​🇴​​​​​🇧​​​​​'🇸​​​​​ 🇭​​​​​🇺​​​​​🇧​​​​​
 
@@ -32,11 +32,11 @@ _I am mobsenpai, a student. I code keeping everything aesthetic and clean._
 
 | Trophy                                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| <img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=MobSenpai&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=gruvbox"> |
+| <img align="center" alt="GitHub Trophy" src="https://github-trophies.vercel.app/?username=mobsenpai&rank=SECRET,SSS,SS,S,AAA,AA,A&row=2&column=3&margin-w=15&margin-h=15&no-frame=true&theme=gruvbox"> |
 
 | Stats                                                                                                                                                                                                                                 | Languages                                                                                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img height="137vh" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MobSenpai&count_private=true&show_icons=true&line_height=21&hide_border=true&theme=gruvbox"/> | <img height="137vh" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobSenpai&layout=compact&line_height=21&hide_border=true&theme=gruvbox"/> |
+| <img height="137vh" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mobsenpai&count_private=true&show_icons=true&line_height=21&hide_border=true&theme=gruvbox"/> | <img height="137vh" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobsenpai&layout=compact&line_height=21&hide_border=true&theme=gruvbox"/> |
 
 </details>
 
